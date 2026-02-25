@@ -15,4 +15,4 @@ Implement a CDN (Content Delivery Network) using CloudFront to distribute your w
 Set up CI triggers to build and test your website code automatically whenever changes are pushed to the repository.
 ### Continuous Delivery:
 Automate the deployment of your website to AWS S3 and, if using CloudFront, create mechanisms to invalidate the cache when new content is deployed.
-### CI/CD Tools: You can use popular CI/CD tools Jenkins and AWS CodePipeline to create and manage your pipeline.
+### CI/CD Tools: You can use popular CI/CD tools Jenkins and AWS CodePipeline to create and manage your Pipeline.
